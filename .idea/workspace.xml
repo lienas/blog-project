@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3eedb71-eb0b-4bba-84d8-38462ca6ed35" name="Changes" comment="" />
+    <list default="true" id="b3eedb71-eb0b-4bba-84d8-38462ca6ed35" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +52,7 @@
       <workItem from="1642940264377" duration="3119000" />
       <workItem from="1643126283733" duration="95000" />
       <workItem from="1643181260913" duration="8029000" />
-      <workItem from="1643285986953" duration="4129000" />
+      <workItem from="1643285986953" duration="5167000" />
     </task>
     <task id="LOCAL-00001" summary="hero-component">
       <created>1643007084496</created>
@@ -73,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643295205706</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cleanup">
+      <created>1643295622127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643295622127</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +104,7 @@
     <MESSAGE value="hero-component" />
     <MESSAGE value="add project files" />
     <MESSAGE value="add config" />
-    <option name="LAST_COMMIT_MESSAGE" value="add config" />
+    <MESSAGE value="cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleanup" />
   </component>
 </project>
