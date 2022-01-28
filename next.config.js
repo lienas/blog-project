@@ -10,6 +10,7 @@ module.exports = (phase) => {
                 mongodb_database: 'blog-db-dev'
             }
         }
+    }
 
         return {
             env: {
@@ -19,5 +20,4 @@ module.exports = (phase) => {
                 mongodb_database: 'blog-db'
             }
         }
-    }
 };
